@@ -10,7 +10,7 @@ import subprocess
 import sys
 import time
 
-VERSION = '0.0.1'
+VERSION = "0.1.0"
 DEPENDENCY_SUFFIX = ".dep"
 MANIFEST_FILENAME = "manifest.txt"
 SUCCESS_STAMP = ".success"
